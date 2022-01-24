@@ -9,4 +9,4 @@ zuul:
     routes:
       client-api:
         path: /client/**
-        url: http://localhost:8091/client
+        url: http://localhost:8091
